@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is Adrian is I am currently a Physics major and a future Electrical Engineering major
+My name is Adrian is I am currently a Physics major and a future Electrical Engineering major!
 - 🌱 I’m currently learning Physics at the Lebanese University
 - 📫 How to reach me:
-   -email adress: adrian.azar@st.ul.edu.lb
+   - email adress: adrian.azar@st.ul.edu.lb
 <!--
 **AdrianAzar/adrianazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
