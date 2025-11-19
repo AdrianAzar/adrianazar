@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Adrian is I am currently a Physics major and a future Electrical Engineering major!
+My name is Adrian is I am currently a Physics major.
 - 🌱 I’m currently learning Physics at the Lebanese University
 - 📫 How to reach me:
    - email adress: adrian.azar@st.ul.edu.lb
