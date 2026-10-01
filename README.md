@@ -1,8 +1,5 @@
 ## Hi there 👋
-My name is Adrian Azar and I am passionate about high-energy physics and team scientific research, and I am currently applying to the CERN Summer Student Programme.
-- 🌱 I’m currently learning Physics at the Lebanese University
-- 📫 How to reach me:
-   - email adress: adrian.azar@st.ul.edu.lb
+My name is Adrian Azar and I am passionate about high-energy physics and team scientific research.
 <!--
 **AdrianAzar/adrianazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
